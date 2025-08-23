@@ -6,6 +6,7 @@
 
 3. 为 `avante.nvim` 插件配置 OpenAI API 密钥：`export AVANTE_OPENAI_API_KEY=sk-`
 
+4. 配置字体：[consolaslxgw](https://github.com/MichaelC001/Consolas-Nerd-LXGW-Wenkai-Mono)，或者 [Consolaslxgw Nerd Font Propo](https://github.com/zzd199347/ConsolasLXGW_NERDFont)
 
 ------
 
